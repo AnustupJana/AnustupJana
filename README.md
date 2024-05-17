@@ -20,9 +20,9 @@
   <img align="left" alt="Abhishek Sharma | Stopstalk" width="22px" src="https://www.stopstalk.com/stopstalk/static/images/fav_assets/android-icon-192x192.png?_rev=20200425190226" />
 </a>
 <a href="anustupjanaweb@gmail.com">
-  <img align="left" alt="Anustup Jana | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/email.svg" />
+  <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-
+<br/>
 
 **Languages and Tools:**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
