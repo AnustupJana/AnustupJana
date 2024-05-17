@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JavaScript & ReactJS
 - 💞️ I’m looking to collaborate on Anurag Singh ProCodrr
 - 📫 Contact to reach me in
-  <br />
+
 <a href="https://twitter.com/anustup_jana">
   <img align="left" alt="Anustup Jana | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -19,8 +19,10 @@
 <a href="https://www.stopstalk.com/user/profile/abhishhh1">
   <img align="left" alt="Abhishek Sharma | Stopstalk" width="22px" src="https://www.stopstalk.com/stopstalk/static/images/fav_assets/android-icon-192x192.png?_rev=20200425190226" />
 </a>
-<br />
-- anustupjanaweb@gmail.com
+<a href="anustupjanaweb@gmail.com">
+  <img align="left" alt="Anustup Jana | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/email.svg" />
+</a>
+
 
 **Languages and Tools:**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
@@ -42,7 +44,7 @@
 - 😄 Pronouns: You can say it any way you want
 - ⚡ Fun fact: Can't be counted
 
-https://github-readme-stats.vercel.app/api?username=AnustupJana&show_icons=true&hide_border=true
+![Anustup's github stats](https://github-readme-stats.vercel.app/api?username=AnustupJana&show_icons=true&hide_border=true)
 
 <!---
 AnustupJana/AnustupJana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
