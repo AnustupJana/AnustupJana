@@ -15,9 +15,6 @@
 <a href="https://codechef.com/users/abhishhh1">
   <img align="left" alt="Abhishek Sharma | Codechef" width="22px" src="https://cdn.codechef.com/images/cc-logo-mobile-1.svg" />
 </a>
-<a href="https://www.stopstalk.com/user/profile/abhishhh1">
-  <img align="left" alt="Abhishek Sharma | Stopstalk" width="22px" src="https://www.stopstalk.com/stopstalk/static/images/fav_assets/android-icon-192x192.png?_rev=20200425190226" />
-</a>
 <a href="anustupjanaweb@gmail.com">
   <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
